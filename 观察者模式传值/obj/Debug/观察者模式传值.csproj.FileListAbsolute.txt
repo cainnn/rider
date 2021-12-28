@@ -1,0 +1,14 @@
+C:\Users\p\RiderProjects\观察者模式传值\观察者模式传值\bin\Debug\观察者模式传值.exe.config
+C:\Users\p\RiderProjects\观察者模式传值\观察者模式传值\bin\Debug\观察者模式传值.exe
+C:\Users\p\RiderProjects\观察者模式传值\观察者模式传值\bin\Debug\观察者模式传值.pdb
+C:\Users\p\RiderProjects\观察者模式传值\观察者模式传值\obj\Debug\观察者模式传值.csproj.AssemblyReference.cache
+C:\Users\p\RiderProjects\观察者模式传值\观察者模式传值\obj\Debug\观察者模式传值.Properties.Resources.resources
+C:\Users\p\RiderProjects\观察者模式传值\观察者模式传值\obj\Debug\观察者模式传值.csproj.GenerateResource.cache
+C:\Users\p\RiderProjects\观察者模式传值\观察者模式传值\obj\Debug\观察者模式传值.csproj.CoreCompileInputs.cache
+C:\Users\p\RiderProjects\观察者模式传值\观察者模式传值\obj\Debug\观察者模式传值.exe
+C:\Users\p\RiderProjects\观察者模式传值\观察者模式传值\obj\Debug\观察者模式传值.pdb
+C:\Users\p\RiderProjects\观察者模式传值\观察者模式传值\obj\Debug\观察者模式传值.Form1.resources
+C:\Users\p\RiderProjects\观察者模式传值\观察者模式传值\obj\Debug\观察者模式传值.ControlForm.resources
+C:\Users\p\RiderProjects\观察者模式传值\观察者模式传值\obj\Debug\观察者模式传值.ChildForm1.resources
+C:\Users\p\RiderProjects\观察者模式传值\观察者模式传值\obj\Debug\观察者模式传值.ChildForm2.resources
+C:\Users\p\RiderProjects\观察者模式传值\观察者模式传值\obj\Debug\观察者模式传值.ChildForm3.resources
