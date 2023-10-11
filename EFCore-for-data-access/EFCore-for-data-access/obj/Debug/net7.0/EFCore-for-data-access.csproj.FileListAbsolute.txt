@@ -1,0 +1,14 @@
+C:\Users\p\RiderProjects\EFCore-for-data-access\EFCore-for-data-access\bin\Debug\net7.0\EFCore-for-data-access.exe
+C:\Users\p\RiderProjects\EFCore-for-data-access\EFCore-for-data-access\bin\Debug\net7.0\EFCore-for-data-access.deps.json
+C:\Users\p\RiderProjects\EFCore-for-data-access\EFCore-for-data-access\bin\Debug\net7.0\EFCore-for-data-access.runtimeconfig.json
+C:\Users\p\RiderProjects\EFCore-for-data-access\EFCore-for-data-access\bin\Debug\net7.0\EFCore-for-data-access.dll
+C:\Users\p\RiderProjects\EFCore-for-data-access\EFCore-for-data-access\bin\Debug\net7.0\EFCore-for-data-access.pdb
+C:\Users\p\RiderProjects\EFCore-for-data-access\EFCore-for-data-access\obj\Debug\net7.0\EFCore-for-data-access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p\RiderProjects\EFCore-for-data-access\EFCore-for-data-access\obj\Debug\net7.0\EFCore-for-data-access.AssemblyInfoInputs.cache
+C:\Users\p\RiderProjects\EFCore-for-data-access\EFCore-for-data-access\obj\Debug\net7.0\EFCore-for-data-access.AssemblyInfo.cs
+C:\Users\p\RiderProjects\EFCore-for-data-access\EFCore-for-data-access\obj\Debug\net7.0\EFCore-for-data-access.csproj.CoreCompileInputs.cache
+C:\Users\p\RiderProjects\EFCore-for-data-access\EFCore-for-data-access\obj\Debug\net7.0\EFCore-for-data-access.dll
+C:\Users\p\RiderProjects\EFCore-for-data-access\EFCore-for-data-access\obj\Debug\net7.0\refint\EFCore-for-data-access.dll
+C:\Users\p\RiderProjects\EFCore-for-data-access\EFCore-for-data-access\obj\Debug\net7.0\EFCore-for-data-access.pdb
+C:\Users\p\RiderProjects\EFCore-for-data-access\EFCore-for-data-access\obj\Debug\net7.0\EFCore-for-data-access.genruntimeconfig.cache
+C:\Users\p\RiderProjects\EFCore-for-data-access\EFCore-for-data-access\obj\Debug\net7.0\ref\EFCore-for-data-access.dll

@@ -1,0 +1,17 @@
+C:\Users\p\RiderProjects\CsvTest\CsvTest\bin\Debug\net7.0\CsvTest.exe
+C:\Users\p\RiderProjects\CsvTest\CsvTest\bin\Debug\net7.0\CsvTest.deps.json
+C:\Users\p\RiderProjects\CsvTest\CsvTest\bin\Debug\net7.0\CsvTest.runtimeconfig.json
+C:\Users\p\RiderProjects\CsvTest\CsvTest\bin\Debug\net7.0\CsvTest.dll
+C:\Users\p\RiderProjects\CsvTest\CsvTest\bin\Debug\net7.0\CsvTest.pdb
+C:\Users\p\RiderProjects\CsvTest\CsvTest\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\p\RiderProjects\CsvTest\CsvTest\obj\Debug\net7.0\CsvTest.csproj.AssemblyReference.cache
+C:\Users\p\RiderProjects\CsvTest\CsvTest\obj\Debug\net7.0\CsvTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p\RiderProjects\CsvTest\CsvTest\obj\Debug\net7.0\CsvTest.AssemblyInfoInputs.cache
+C:\Users\p\RiderProjects\CsvTest\CsvTest\obj\Debug\net7.0\CsvTest.AssemblyInfo.cs
+C:\Users\p\RiderProjects\CsvTest\CsvTest\obj\Debug\net7.0\CsvTest.csproj.CoreCompileInputs.cache
+C:\Users\p\RiderProjects\CsvTest\CsvTest\obj\Debug\net7.0\CsvTest.csproj.CopyComplete
+C:\Users\p\RiderProjects\CsvTest\CsvTest\obj\Debug\net7.0\CsvTest.dll
+C:\Users\p\RiderProjects\CsvTest\CsvTest\obj\Debug\net7.0\refint\CsvTest.dll
+C:\Users\p\RiderProjects\CsvTest\CsvTest\obj\Debug\net7.0\CsvTest.pdb
+C:\Users\p\RiderProjects\CsvTest\CsvTest\obj\Debug\net7.0\CsvTest.genruntimeconfig.cache
+C:\Users\p\RiderProjects\CsvTest\CsvTest\obj\Debug\net7.0\ref\CsvTest.dll

@@ -1,0 +1,15 @@
+C:\Users\p\RiderProjects\DescriptionUsage\DescriptionUsage\bin\Debug\net7.0\DescriptionUsage.exe
+C:\Users\p\RiderProjects\DescriptionUsage\DescriptionUsage\bin\Debug\net7.0\DescriptionUsage.deps.json
+C:\Users\p\RiderProjects\DescriptionUsage\DescriptionUsage\bin\Debug\net7.0\DescriptionUsage.runtimeconfig.json
+C:\Users\p\RiderProjects\DescriptionUsage\DescriptionUsage\bin\Debug\net7.0\DescriptionUsage.dll
+C:\Users\p\RiderProjects\DescriptionUsage\DescriptionUsage\bin\Debug\net7.0\DescriptionUsage.pdb
+C:\Users\p\RiderProjects\DescriptionUsage\DescriptionUsage\obj\Debug\net7.0\DescriptionUsage.csproj.AssemblyReference.cache
+C:\Users\p\RiderProjects\DescriptionUsage\DescriptionUsage\obj\Debug\net7.0\DescriptionUsage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p\RiderProjects\DescriptionUsage\DescriptionUsage\obj\Debug\net7.0\DescriptionUsage.AssemblyInfoInputs.cache
+C:\Users\p\RiderProjects\DescriptionUsage\DescriptionUsage\obj\Debug\net7.0\DescriptionUsage.AssemblyInfo.cs
+C:\Users\p\RiderProjects\DescriptionUsage\DescriptionUsage\obj\Debug\net7.0\DescriptionUsage.csproj.CoreCompileInputs.cache
+C:\Users\p\RiderProjects\DescriptionUsage\DescriptionUsage\obj\Debug\net7.0\DescriptionUsage.dll
+C:\Users\p\RiderProjects\DescriptionUsage\DescriptionUsage\obj\Debug\net7.0\refint\DescriptionUsage.dll
+C:\Users\p\RiderProjects\DescriptionUsage\DescriptionUsage\obj\Debug\net7.0\DescriptionUsage.pdb
+C:\Users\p\RiderProjects\DescriptionUsage\DescriptionUsage\obj\Debug\net7.0\DescriptionUsage.genruntimeconfig.cache
+C:\Users\p\RiderProjects\DescriptionUsage\DescriptionUsage\obj\Debug\net7.0\ref\DescriptionUsage.dll
